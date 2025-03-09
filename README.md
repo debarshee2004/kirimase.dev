@@ -1,3 +1,3 @@
 # kirimase.dev
 
-Next Boiler Plate using Kirimase Scafolder
+Next Boiler Plate using Kirimase
